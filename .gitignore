@@ -1,0 +1,33 @@
+# virtualenv
+venv
+
+# development
+*.save
+*.sublime-workspace
+*.swp
+*.swap
+
+# compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache
+
+# virtualenv
+.venv
+venv
+
+# application
+*.log
+
+# packaging
+build
+dist
+.egg-info
+
+# test
+.coverage
+.cache
+
+# system
+.DS_Store
