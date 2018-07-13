@@ -1,0 +1,11 @@
+# dev
+watchdog
+
+# test
+demjson
+flake8
+isort
+pytest
+pytest-coverage
+pytest-spec
+
